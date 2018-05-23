@@ -14,6 +14,7 @@ case a
 
 # I can also save the result of a case statement into a 'variable':
 
+
 # case_statement.rb <-- refactored
 
 a = 5
@@ -30,6 +31,7 @@ answer = case a
 puts answer
 
 # I dont necesarily have to give 'case' and argument, i could do the below:
+
 
 # case_statement.rb <-- refactored with no case argument
 

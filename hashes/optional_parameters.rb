@@ -1,5 +1,6 @@
 # optional_paramters.rb
 
+
 # I have the ability to assign default parameters to my methods so that the output is always consisten. I can 
 # use a hash to accept otpional parameters when I am creating methods as well.
 

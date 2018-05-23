@@ -1,4 +1,6 @@
-# Loops & Iterators
+# loops_iterators.rb
+
+
 # a loop is the repetitive execution of a piece of code for a given amount of repetitions or until a certain condition is met.
 # The loop method takes a block of code, thats denoted by {}/do..end and will execute that code until manually intervene
 # with 'Ctrl + c' or inserting a 'break' statement inside the block.

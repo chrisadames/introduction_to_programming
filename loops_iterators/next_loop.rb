@@ -1,5 +1,6 @@
 # next_loop.rb
 
+
 # Similar to 'break' to exit a loop, I can use the keyword 'next'
 # to skip the rest of the current iteration and start executing the next iteration.
 

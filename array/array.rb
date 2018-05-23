@@ -1,4 +1,4 @@
-# ARRAY
+# array.rb
 
 # is an ordered list of elements that can be of any type. I define an array by placing a list of elements 
 # between brackets like [1, "two", 3.5]. Array's can have any combination of strings, integers, floats and even other arrays!

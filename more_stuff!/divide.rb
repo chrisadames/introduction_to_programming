@@ -1,5 +1,6 @@
 # divide.rb
 
+
 def divide(number, divisor)
   begin
     answer = number / divisor

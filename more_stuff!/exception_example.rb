@@ -1,5 +1,6 @@
 # exception_example.rb
 
+
 begin
   # perform some dangerous operation
 rescue

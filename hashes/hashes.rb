@@ -1,4 +1,6 @@
-# Hashes
+# hashes.rb
+
+
 # Ruby versions before 1.9 do not maintain the order in which I create the hashes.
 # is a data structure that stores items by associated keys. This is contrasted against arrays, which store items by and ordered
 # index. Entries in a hash are often referred to as 'key-value pairs'. This creates an associative representation of data.

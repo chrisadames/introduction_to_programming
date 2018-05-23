@@ -1,3 +1,6 @@
+# conditional.rb
+
+
 puts "Put in a number"
 a = gets.chomp.to_i
 

@@ -1,4 +1,4 @@
-# METHODS
+# methods.rb
 
 
 # Instead of writing that piece of code over and over, there's a feature in most 

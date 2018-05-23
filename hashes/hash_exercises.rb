@@ -43,7 +43,6 @@ puts weight  # => {:weight=>"10 lbs"}
 
 # 3. Using some of Ruby's built-in Hash methods, write a program that loops through a hash and prints all of the keys.
 #    Then write a program that does the same thing except printing the values. Finally, write a program that prints both.
-
 my_hash = { key_1: "value 1", key_2: "value 2" }
 
 # write a program that loops through a hash and prints all of the keys.
@@ -57,10 +56,10 @@ my_hash.each { |key, value| puts "The opposite of #{key} is #{value}" }
 
 
 # 4. Given the following expression, how would you access the name of the person?
-
 person = { name: 'Bob', occupation: 'web developer', hobbies: 'painting' }
 
 person[:name]
+
 
 # 5. What method could you use to find out if a Hash contains a specific value in it? Write a program to demonstrate this use.
 person = { name: 'Bob', occupation: 'web developer', hobbies: 'painting' }

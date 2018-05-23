@@ -1,5 +1,6 @@
 # countdown.rb
 
+
 x = gets.chomp.to_i
 
 while x >= 0
@@ -17,6 +18,7 @@ puts "Done!"
 # value of x and evaluates the x >= 0 again. This process repeats until the value
 # of x is no longer greater than or equal to 0. It then exits the loop and continues
 # wth the rest of the program.
+
 
 # refactoring this loop:
 

@@ -31,7 +31,6 @@ has_lab?("polar bear")
 
 
 # 2. What will the following program print to the screen? What will it return?
-
 def execute(&block)
   block
 end
@@ -46,7 +45,6 @@ execute { puts "Hello from inside the executed block" }
 # error by changing the flow of control without exiting the program entirely.
 
 # 4. Modify the code in exercise 2 to make the block execute properly.
-
 def execute(&block)
   block.call
 end
@@ -55,7 +53,6 @@ execute { puts "Hello from inside the executed block" }
 
 
 # 5. Why does the following code...
-
 def execute(block)
   block.call
 end

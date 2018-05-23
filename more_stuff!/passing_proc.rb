@@ -1,5 +1,6 @@
 # passing_proc.rb
 
+
 # Procs can be passed into methods:
 
 def take_proc(proc)
